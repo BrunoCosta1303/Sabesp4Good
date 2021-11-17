@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/sabesp4good/static/js/main.3b2c0f1b.chunk.js",
-    "main.js.map": "/sabesp4good/static/js/main.3b2c0f1b.chunk.js.map",
+    "main.js": "/sabesp4good/static/js/main.8f45672e.chunk.js",
+    "main.js.map": "/sabesp4good/static/js/main.8f45672e.chunk.js.map",
     "runtime-main.js": "/sabesp4good/static/js/runtime-main.e8bb5428.js",
     "runtime-main.js.map": "/sabesp4good/static/js/runtime-main.e8bb5428.js.map",
     "static/js/2.4a817250.chunk.js": "/sabesp4good/static/js/2.4a817250.chunk.js",
     "static/js/2.4a817250.chunk.js.map": "/sabesp4good/static/js/2.4a817250.chunk.js.map",
     "index.html": "/sabesp4good/index.html",
     "static/js/2.4a817250.chunk.js.LICENSE.txt": "/sabesp4good/static/js/2.4a817250.chunk.js.LICENSE.txt",
-    "static/media/SabespLogo.png": "/sabesp4good/static/media/SabespLogo.292ba02e.png"
+    "static/media/sabesp.png": "/sabesp4good/static/media/sabesp.292ba02e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e8bb5428.js",
     "static/js/2.4a817250.chunk.js",
-    "static/js/main.3b2c0f1b.chunk.js"
+    "static/js/main.8f45672e.chunk.js"
   ]
 }
