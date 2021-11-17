@@ -22,7 +22,7 @@ export default function App() {
   
   return (
     <View style={styles.container}>
-      <Image source={require('./assets/SabespLogo.png')} style={styles.logo}/>
+      <Image source={require('./sabesp.png')} style={styles.logo}/>
       <Picker
         selectedValue={sistemaSelecionado}
         style={{height:30, width: 150, alignSelf:'center'}}
