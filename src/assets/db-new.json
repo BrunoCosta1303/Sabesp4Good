@@ -1,0 +1,374 @@
+[
+    {
+        "nome": "Guarapiranga",
+        "data": "JAN",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 801,
+                "Realizado": 801,
+                "Conforme": 790
+            },
+            "Cor Aparente": {
+                "Exigido": 177,
+                "Realizado": 229,
+                "Conforme": 227
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 801,
+                "Realizado": 803,
+                "Conforme": 775
+            },
+            "Coliforme Total": {
+                "Exigido": 801,
+                "Realizado": 801,
+                "Conforme": 792
+            },
+            "E.Coli": {
+                "Exigido": 801,
+                "Realizado": 801,
+                "Conforme": 801
+            }
+        }
+    },
+    {
+        "nome": "Guarapiranga",
+        "data": "FEV",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 801,
+                "Realizado": 801,
+                "Conforme": 790
+            },
+            "Cor Aparente": {
+                "Exigido": 177,
+                "Realizado": 229,
+                "Conforme": 227
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 801,
+                "Realizado": 803,
+                "Conforme": 775
+            },
+            "Coliforme Total": {
+                "Exigido": 801,
+                "Realizado": 801,
+                "Conforme": 792
+            },
+            "E.Coli": {
+                "Exigido": 801,
+                "Realizado": 801,
+                "Conforme": 801
+            }
+        }
+    },
+    {
+        "nome": "Cantareira",
+        "data": "JAN",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 725,
+                "Realizado": 792,
+                "Conforme": 792
+            },
+            "Cor Aparente": {
+                "Exigido": 231,
+                "Realizado": 273,
+                "Conforme": 273
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 725,
+                "Realizado": 792,
+                "Conforme": 792
+            },
+            "Coliforme Total": {
+                "Exigido": 725,
+                "Realizado": 790,
+                "Conforme": 784
+            },
+            "E.Coli": {
+                "Exigido": 725,
+                "Realizado": 790,
+                "Conforme": 790
+            }
+        } 
+    },
+    {
+        "nome": "Cantareira",
+        "data": "FEV",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 725,
+                "Realizado": 793,
+                "Conforme": 791
+            },
+            "Cor Aparente": {
+                "Exigido": 231,
+                "Realizado": 269,
+                "Conforme": 269
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 725,
+                "Realizado": 793,
+                "Conforme": 793
+            },
+            "Coliforme Total": {
+                "Exigido": 725,
+                "Realizado": 793,
+                "Conforme": 784
+            },
+            "E.Coli": {
+                "Exigido": 725,
+                "Realizado": 793,
+                "Conforme": 793
+            }
+        } 
+    },
+    {
+        "nome": "Alto Tiete",
+        "data": "JAN",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 563,
+                "Realizado": 614,
+                "Conforme": 613
+            },
+            "Cor Aparente": {
+                "Exigido": 124,
+                "Realizado": 189,
+                "Conforme": 188
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 563,
+                "Realizado": 614,
+                "Conforme": 614
+            },
+            "Coliforme Total": {
+                "Exigido": 563,
+                "Realizado": 614,
+                "Conforme": 614
+            },
+            "E.Coli": {
+                "Exigido": 563,
+                "Realizado": 614,
+                "Conforme": 614
+            }
+        }
+    },
+    {
+        "nome": "Alto Tiete",
+        "data": "FEV",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 563,
+                "Realizado": 593,
+                "Conforme": 593
+            },
+            "Cor Aparente": {
+                "Exigido": 124,
+                "Realizado": 182,
+                "Conforme": 181
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 563,
+                "Realizado": 593,
+                "Conforme": 593
+            },
+            "Coliforme Total": {
+                "Exigido": 563,
+                "Realizado": 593,
+                "Conforme": 591
+            },
+            "E.Coli": {
+                "Exigido": 563,
+                "Realizado": 593,
+                "Conforme": 593
+            }
+        }
+    },
+    {
+        "nome": "Marsilac",
+        "data": "JAN",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            },
+            "Cor Aparente": {
+                "Exigido": 5,
+                "Realizado": 7,
+                "Conforme": 7
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            },
+            "Coliforme Total": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            },
+            "E.Coli": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            }
+        }
+    },
+    {
+        "nome": "Marsilac",
+        "data": "FEV",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            },
+            "Cor Aparente": {
+                "Exigido": 5,
+                "Realizado": 6,
+                "Conforme": 6
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            },
+            "Coliforme Total": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            },
+            "E.Coli": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            }
+        }
+    },
+    {
+        "nome": "Oriental",
+        "data": "JAN",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 10,
+                "Realizado": 10,
+                "Conforme": 10
+            },
+            "Cor Aparente": {
+                "Exigido": 5,
+                "Realizado": 6,
+                "Conforme": 6
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 10,
+                "Realizado": 10,
+                "Conforme": 10
+            },
+            "Coliforme Total": {
+                "Exigido": 10,
+                "Realizado": 10,
+                "Conforme": 10
+            },
+            "E.Coli": {
+                "Exigido": 10,
+                "Realizado": 10,
+                "Conforme": 10
+            }
+        }
+    },
+    {
+        "nome": "Oriental",
+        "data": "FEV",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            },
+            "Cor Aparente": {
+                "Exigido": 5,
+                "Realizado": 6,
+                "Conforme": 6
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            },
+            "Coliforme Total": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            },
+            "E.Coli": {
+                "Exigido": 10,
+                "Realizado": 11,
+                "Conforme": 11
+            }
+        }
+    },
+    {
+        "nome": "Rio Claro",
+        "data": "JAN",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 205,
+                "Realizado": 235,
+                "Conforme": 235
+            },
+            "Cor Aparente": {
+                "Exigido": 49,
+                "Realizado": 81,
+                "Conforme": 81
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 205,
+                "Realizado": 235,
+                "Conforme": 235
+            },
+            "Coliforme Total": {
+                "Exigido": 205,
+                "Realizado": 235,
+                "Conforme": 235
+            },
+            "E.Coli": {
+                "Exigido": 205,
+                "Realizado": 235,
+                "Conforme": 235
+            }
+        }
+    },
+    {
+        "nome": "Rio Claro",
+        "data": "FEV",
+        "Propriedades": {
+            "Turbidez": {
+                "Exigido": 205,
+                "Realizado": 210,
+                "Conforme": 210
+            },
+            "Cor Aparente": {
+                "Exigido": 49,
+                "Realizado": 70,
+                "Conforme": 70
+            },
+            "Cloro Residual Livre": {
+                "Exigido": 205,
+                "Realizado": 210,
+                "Conforme": 210
+            },
+            "Coliforme Total": {
+                "Exigido": 205,
+                "Realizado": 210,
+                "Conforme": 210
+            },
+            "E.Coli": {
+                "Exigido": 205,
+                "Realizado": 210,
+                "Conforme": 210
+            }
+        }
+    }
+]
